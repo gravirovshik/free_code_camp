@@ -1,3 +1,5 @@
+Solution for index.html
+
 ```html
 <!DOCTYPE html>
 <html>
@@ -119,6 +121,7 @@
   </body>
 </html>
 ```
+Solution for style.css
 
 ```css
 html {
