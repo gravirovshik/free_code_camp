@@ -1,4 +1,7 @@
-Solution for index.html
+## Задание
+Objective: Build an app that is functionally similar to https://tribute-page.freecodecamp.rocks
+
+### Solution for index.html
 
 ```html
 <!DOCTYPE html>
@@ -121,7 +124,7 @@ Solution for index.html
   </body>
 </html>
 ```
-Solution for style.css
+### Solution for style.css
 
 ```css
 html {
