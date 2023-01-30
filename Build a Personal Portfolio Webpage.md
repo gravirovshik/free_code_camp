@@ -558,6 +558,4 @@ footer i {
     text-align: center;
   }
 }
-
-
 ```
